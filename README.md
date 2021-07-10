@@ -1,4 +1,6 @@
 ### Hi there 👋 I am Jay Sudani.
+</br>
+## A Competitive Programmer and open source enthusiast.
 
 
 <!--
