@@ -1,6 +1,8 @@
-### Hi there 👋 I am Jay Sudani.
+<h3> Hi there 👋 I am Jay Sudani.</h3>
 <br/>
-## A Competitive Programmer and open source enthusiast.
+<h4> Android Developer, Competitive Programmer and Open source enthusiast.</h4>
+
+How to reach me : [LinkedIn](https://www.linkedin.com/in/jaysudani) [Twitter](https://twitter.com/Jaysudani7)
 
 
 <!--
